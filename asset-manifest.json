@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bobs-burger-app/static/css/main.baa60733.css",
-    "main.js": "/bobs-burger-app/static/js/main.76deaec2.js",
+    "main.js": "/bobs-burger-app/static/js/main.307fb63b.js",
     "static/js/787.51ccaaef.chunk.js": "/bobs-burger-app/static/js/787.51ccaaef.chunk.js",
     "static/media/card-bg.jpg": "/bobs-burger-app/static/media/card-bg.7101cdd6cc42ce97646e.jpg",
     "static/media/bobs-burger-logo.png": "/bobs-burger-app/static/media/bobs-burger-logo.8f1122a46d91feec5d96.png",
     "index.html": "/bobs-burger-app/index.html",
     "main.baa60733.css.map": "/bobs-burger-app/static/css/main.baa60733.css.map",
-    "main.76deaec2.js.map": "/bobs-burger-app/static/js/main.76deaec2.js.map",
+    "main.307fb63b.js.map": "/bobs-burger-app/static/js/main.307fb63b.js.map",
     "787.51ccaaef.chunk.js.map": "/bobs-burger-app/static/js/787.51ccaaef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baa60733.css",
-    "static/js/main.76deaec2.js"
+    "static/js/main.307fb63b.js"
   ]
 }
