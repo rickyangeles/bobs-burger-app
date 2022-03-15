@@ -42,7 +42,7 @@ function App() {
                 <Header />
                 <Container>
                     <Row className="justify-content-md-center">
-                        <Col xs={4}>
+                        <Col xs={12} lg={8} md={8} >
                             <CharacterList characters={characters} />
                             <CharacterProfile id={selectedCharacter} />
                         </Col>
